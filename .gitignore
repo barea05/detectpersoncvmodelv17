@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+yolo11n.pt
+d/
+computervisionmodel/speed_management.avi
