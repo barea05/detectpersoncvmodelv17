@@ -5,4 +5,4 @@ __pycache__/
 *.pyd
 yolo11n.pt
 d/
-computervisionmodel/speed_management.avi
+speed_management.avi/
